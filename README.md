@@ -1,0 +1,2 @@
+# Unhandled JSON Key Errors in Dart Async Operations
+This example shows a common error when working with asynchronous operations and JSON data in Dart.  Specifically, the code lacks proper error handling when accessing keys from a JSON response. The solution demonstrates how to add robust error handling to prevent crashes and improve the overall reliability of the application.
